@@ -1,1 +1,1 @@
-# laughing-system
+# student-horizon
